@@ -9,7 +9,7 @@ import (
 /*
   export GOOGLE_APPLICATION_CREDENTIALS=/Users/ETORRIFUT/work/SA.json
 
-  Da eseguire con ./subsrunner training-gcp-309207 topic-frank-sub
+  Da eseguire con ./subsrunner training-gcp-309207 topic-frank-sub-ordered
 */
 func main() {
 
