@@ -2,7 +2,7 @@
 
 Esportare la chiave pubblica del service account
 
-     export GOOGLE_APPLICATION_CREDENTIALS=/Users/ETORRIFUT/work/SA.json
+     export GOOGLE_APPLICATION_CREDENTIALS=....
 
 Eseguire con
 
